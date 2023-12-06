@@ -16,8 +16,11 @@ h1{
     width: 100%;
    }
    .beneficios{
-    background:@ffffff
+    background:#ffffff;
     padding: 20px;
    }
 
-   .imgembeneficios
+   .imgembeneficios {
+    width: 50%;
+
+   }
